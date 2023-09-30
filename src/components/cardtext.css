@@ -1,0 +1,5 @@
+.flashcard {
+    background-color: lightblue; /* Set the desired background color */
+    padding: 20px; /* Add some padding for spacing */
+    cursor: pointer; /* Change cursor on hover (optional) */
+  }
